@@ -49,3 +49,11 @@ a {
     margin-bottom: 15px;
 }
 
+.contact_list {
+    list-style: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+}
